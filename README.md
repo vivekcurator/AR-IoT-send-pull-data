@@ -1,5 +1,5 @@
 # AR-IoT_push_pull_data
-## B.Tech Project 6th Semester summer training project AR &amp; IOT
+## B.Tech Project 6th Semester Summer Training Project On AR &amp; IOT
 
 PROBLEM : Imagine you work in a thermal power plant and there is an emergency where a valve of heating system has broken. you are the in-charge of repairing that valve but due to high heat you are facing problems. If your company was using the idea that i am going to discuss next, this task would be very simple to perform.
 
